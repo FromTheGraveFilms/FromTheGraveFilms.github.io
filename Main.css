@@ -1,13 +1,4 @@
 
-
-.colours {
-    #F0F0F0;
-    #A50020;
-    #9C9C9C;
-    #545454;
-    #171717;
-}
-
 .dark1 {
     background-color: #171717;
 }
@@ -26,4 +17,13 @@
 
 .accent {
     background-color: #A50020;
+}
+
+
+.text1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.text2 {
+    font-family: 'Montserrat', sans-serif;
 }
