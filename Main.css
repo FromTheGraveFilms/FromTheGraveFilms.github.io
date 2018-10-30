@@ -4,7 +4,7 @@
 }
 
 .bg-dark2 {
-    background-color: #545454;
+    background-color: #212121;
 }
 
 .bg-light1 {
@@ -12,11 +12,11 @@
 }
 
 .bg-light2 {
-    background-color: #545454;
+    background-color: #9C9C9C;
 }
 
 .bg-accent {
-    background-color: #A50020;
+    background-color: #C91020;
 }
 
 
@@ -33,11 +33,11 @@
 }
 
 .text-light2 {
-    color: #545454;
+    color: #9C9C9C;
 }
 
 .text-accent {
-    color: #A50020 !important;
+    color: #D91020 !important;
 }
 
 
