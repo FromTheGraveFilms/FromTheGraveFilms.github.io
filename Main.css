@@ -1,22 +1,43 @@
 
-.dark1 {
+.bg-dark1 {
     background-color: #171717;
 }
 
-.dark2 {
+.bg-dark2 {
     background-color: #545454;
 }
 
-.light1 {
+.bg-light1 {
     background-color: #F0F0F0;
 }
 
-.light2 {
-    background-color: 545454;
+.bg-light2 {
+    background-color: #545454;
 }
 
-.accent {
+.bg-accent {
     background-color: #A50020;
+}
+
+
+.text-dark1 {
+    color: #171717;
+}
+
+.text-dark2 {
+    color: #545454;
+}
+
+.text-light1 {
+    color: #F0F0F0;
+}
+
+.text-light2 {
+    color: #545454;
+}
+
+.text-accent {
+    color: #A50020 !important;
 }
 
 
