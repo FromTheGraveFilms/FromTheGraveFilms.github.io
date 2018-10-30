@@ -51,7 +51,5 @@
 
 
 body {
-    position: fixed !important;
-    width: 100% !important;
-    overflow-y: scroll !important;
+    overflow: hidden !important;
 }
