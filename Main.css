@@ -50,6 +50,6 @@
 }
 
 
-body {
-    overflow: hidden !important;
+::-webkit-scrollbar {
+    display: none;
 }
